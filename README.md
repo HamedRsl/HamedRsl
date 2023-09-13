@@ -15,8 +15,7 @@
 <p align="center">
 <img src="https://media1.giphy.com/media/Id47nUUpLTSJG/giphy.gif?cid=ecf05e47ibyoe1ktkkyqz159sg9ejvl0vokro996l9qioixs&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g">
 </p>
-```yaml
-name: Hamed Rasouli
+<pre>name: Hamed Rasouli
 title: Full-Stack Developer
 email: mr.h.rasouli@gmail.com
 fields_of_interests:
@@ -25,8 +24,8 @@ fields_of_interests:
   "Mobile Development"و
   "AI"
   ]
-availability: Open to remote and hybrid work opportunities worldwide.
-```
+</pre>
+
 <h2 align="center">
    🚀 Some Tools I have Used and Learned
 </h2>
@@ -35,4 +34,3 @@ availability: Open to remote and hybrid work opportunities worldwide.
   <img height="50" src="https://github.com/HamedRsl/HamedRsl/assets/137708287/2341fd9f-f6b3-4829-8232-355aec085cbf"/>
   <img height="50" src="https://github.com/HamedRsl/HamedRsl/assets/137708287/53278aef-f396-4ae7-b894-c6ae8630d8be"/>
 </p>
-![Snake animation](https://github.com/HamedRsl/HamedRsl/blob/output/github-contribution-grid-snake.svg)
