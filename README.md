@@ -6,10 +6,10 @@
 </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/hamedrsl">
-  <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="pointer-events: none;"/>
+  <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;"/>
 </a>
   <a href="https://www.t.me/hamedrsl">
-  <img height="50" src="https://github.com/HamedRsl/HamedRsl/assets/137708287/ef37ad4f-dfae-40cb-8786-6c8d4cdf8c8d" style="pointer-events: none;"/>
+  <img height="50" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 8px;"/>
 </a>
 </p>
 <p align="center">
