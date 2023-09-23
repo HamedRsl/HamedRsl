@@ -6,7 +6,7 @@
 </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/hamedrsl">
-  <img height="50" src="https://github.com/HamedRsl/HamedRsl/assets/137708287/d7970109-50c7-43cc-a79d-65f9ecc8d119" style="pointer-events: none;"/>
+  <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="pointer-events: none;"/>
 </a>
   <a href="https://www.t.me/hamedrsl">
   <img height="50" src="https://github.com/HamedRsl/HamedRsl/assets/137708287/ef37ad4f-dfae-40cb-8786-6c8d4cdf8c8d" style="pointer-events: none;"/>
