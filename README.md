@@ -1,33 +1,55 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hamed%20Rasouli&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h2 align="center">
-   Let's Connect and have a Chat!💬
-</h2>
+
+<h3 align="center">
+  Software Engineer building scalable web applications with modern frontend architecture
+</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/hamedrsl">
-  <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/hamedrsl">
+    <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;"/>
+  </a>
   <a href="https://www.t.me/hamedrsl">
-  <img height="50" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 8px;"/>
-</a>
+    <img height="50" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="border-radius: 8px;"/>
+  </a>
+  <a href="mailto:hrasouli.work@gmail.com">
+    <img height="50" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 8px;"/>
+  </a>
 </p>
-<p align="center">
-<img src="https://media1.giphy.com/media/Id47nUUpLTSJG/giphy.gif?cid=ecf05e47ibyoe1ktkkyqz159sg9ejvl0vokro996l9qioixs&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g">
-</p>
-<pre>name: Hamed Rasouli
-title: Full-Stack Developer
-email: mr.h.rasouli@gmail.com
-fields_of_interests:
+
+I'm a Software Engineer specializing in scalable web applications and modern frontend architecture. I work mostly with Angular, TypeScript and NestJS, build cross-platform apps with Ionic and Tauri, and reach for Rust and WebAssembly when performance matters. I care about clean architecture, performance, maintainability and solid engineering practices.
+
+**Currently building** [Hyalo](https://github.com/HamedRsl/Hyalo), a free, open-source liquid glass UI kit for Angular.
+
+**Open to freelance work.** If you need a web application that is built to scale and easy to maintain, send me an email or a message on Telegram.
+
+<pre>
+name: Hamed Rasouli
+title: Software Engineer
+email: hrasouli.work@gmail.com
+stack:
   [
-  "Web Development",
-  "Mobile Development"و
-  "AI"
+  "Angular",
+  "TypeScript",
+  "NestJS",
+  "Ionic",
+  "Tauri",
+  "Rust",
+  "WebAssembly"
   ]
+focus:
+  [
+  "Frontend architecture",
+  "Clean architecture",
+  "Performance",
+  "Maintainability"
+  ]
+available_for: freelance projects
 </pre>
 
 <h2 align="center">
-   🚀 Some Tools I have Used and Learned
+  Tools I work with
 </h2>
 <p align="center">
   <img height="50" src="https://github.com/HamedRsl/HamedRsl/assets/137708287/c8a7d3fe-ee4b-40e9-be06-448f52960660"/>
